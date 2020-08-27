@@ -1,0 +1,7 @@
+echo "# MEAN_CRUD_PaymentDetail" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin22 https://github.com/pradeepdevloper1/MEAN_CRUD_PaymentDetail.git
+git push -u origin22 master
